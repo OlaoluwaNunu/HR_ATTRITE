@@ -57,6 +57,10 @@ The EDA visualizations provide valuable insights into potential factors contribu
 
 **Overtime**: Working overtime might be related to different attrition rates.
 
+## Deployment
+This HR Prediction of Employee Attrition in an organization  model is deployed to Streamlit.
+[HR Prediction of Employee Attrition](https://hrattrite-kvcnasei6zvfzwzfvpkshb.streamlit.app/)
+
 ## Conclusion and Suggestions:
 
 The project concludes with a trained model that can predict employee attrition based on historical data. 
